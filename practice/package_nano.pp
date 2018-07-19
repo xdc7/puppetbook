@@ -1,0 +1,3 @@
+package {'nano':
+  ensure => installed,
+}
